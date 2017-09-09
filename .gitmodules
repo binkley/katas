@@ -1,0 +1,4 @@
+[submodule "java-generics"]
+	path = java-generics
+	url = ../tw-generics-kata.git
+	branch = master
