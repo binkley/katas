@@ -4,4 +4,4 @@ Grouping of katas as submodules
 
 ## Submodules
 
-### [java-generics](binkley/tw-generics-kata)
+### [java-generics](//github.com/binkley/tw-generics-kata)
