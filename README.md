@@ -1,3 +1,7 @@
 # Katas
 
-Groups of katas as submodules
+Grouping of katas as submodules
+
+## Submodules
+
+### [java-generics](java-generics/)
